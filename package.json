@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages-clean && gh-pages -d .next -f"
+    "deploy": "npm run build && gh-pages -d .next -f"
   },
   "dependencies": {
     "@react-three/drei": "^9.105.4",
