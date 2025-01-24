@@ -41,7 +41,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Bonjour ! Moi c'est Yanis Chena, bienvenue sur mon portfolio.
+            Bonjour ! Moi c&apos;est Yanis Chena, bienvenue sur mon portfolio.
           </p>
         </div>
       </div>
