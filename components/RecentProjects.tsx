@@ -1,7 +1,4 @@
-import { FaLocationArrow } from "react-icons/fa6";
 import { projects } from "@/data";
-import { ExpandableCard } from "./Card";
-import { title } from "process";
 import { PhotoProvider, PhotoView } from "react-photo-view";
 import "react-photo-view/dist/react-photo-view.css";
 
