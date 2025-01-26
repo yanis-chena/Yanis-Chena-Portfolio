@@ -76,8 +76,8 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: "FULL STACK DEVELOPER REACT NODE JS",
-    desc: "3w Academy",
+    title: "FULL STACK DEVELOPER",
+    desc: "à venir",
     className: "md:col-span-2",
     thumbnail: "./exp1.svg",
   },
