@@ -12,12 +12,13 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "Ouvert au télétravail à 100%",
-    description: "",
+    title: "",
+    description:
+      "Développeur autodidacte je code depuis quelques années des mods, des scripts basé sur des api",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
-    titleClassName: "justify-start",
-    img: "",
+    titleClassName: "",
+    img: "./photo2moi.jpg",
     spareImg: "",
   },
   {
@@ -32,16 +33,14 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "",
-    description:
-      "Développeur autodidacte je code depuis quelques années des mods, des scripts basé sur des api",
+    title: "Ouvert au télétravail à 100%",
+    description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
-    titleClassName: "",
-    img: "./photo2moi.jpg",
+    titleClassName: "justify-start",
+    img: "",
     spareImg: "",
   },
-
   {
     id: 6,
     title: "N'hésitez pas à me contacter",

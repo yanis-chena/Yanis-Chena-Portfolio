@@ -127,7 +127,7 @@ export const BentoGridItem = ({
             {title}
           </div>
 
-          {id === 2 && <GridGlobe />}
+          {id === 4 && <GridGlobe />}
 
           {id === 6 && (
             <div className="mt-5 relative">
