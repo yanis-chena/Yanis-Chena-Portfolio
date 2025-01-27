@@ -65,7 +65,7 @@ export const projects = [
   {
     id: 2,
     title: "Formulaire de franchise PHP",
-    des: "Javascript, Bootstrap, regex, Mailer PHP, auto-complétion d'adresse via API ",
+    des: "Javascript, Bootstrap, Jquery, regex, Mailer PHP, auto-complétion d'adresse via API ",
     img: "./TOC.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
@@ -75,8 +75,8 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: "FULL STACK DEVELOPER REACT NODE JS",
-    desc: "3w Academy",
+    title: "FULL STACK DEVELOPER",
+    desc: "à venir",
     className: "md:col-span-2",
     thumbnail: "./exp1.svg",
   },
