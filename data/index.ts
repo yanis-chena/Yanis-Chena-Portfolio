@@ -75,27 +75,20 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: "FULL STACK DEVELOPER",
-    desc: "à venir",
-    className: "md:col-span-2",
-    thumbnail: "./exp1.svg",
-  },
-  {
-    id: 2,
     title: "RUBY ON RAILS",
     desc: "The Odin Project",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "./exp2.svg",
   },
   {
-    id: 3,
+    id: 2,
     title: "PYTHON",
     desc: "Orange",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "./exp3.svg",
   },
   {
-    id: 4,
+    id: 3,
     title: "WORDPRESS, HTML, CSS, JAVASCRIPT, PHP",
     desc: "Orange",
     className: "md:col-span-2",
